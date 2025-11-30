@@ -1,0 +1,91 @@
+Collecting colorama
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting pyfiglet
+  Downloading pyfiglet-1.0.4-py3-none-any.whl.metadata (7.4 kB)
+Collecting tqdm
+  Downloading tqdm-4.67.1-py3-none-any.whl.metadata (57 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 57.7/57.7 kB 8.2 MB/s eta 0:00:00
+Collecting requests
+  Downloading requests-2.32.5-py3-none-any.whl.metadata (4.9 kB)
+Collecting paramiko
+  Downloading paramiko-4.0.0-py3-none-any.whl.metadata (3.9 kB)
+Collecting pycryptodome
+  Downloading pycryptodome-3.23.0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (3.4 kB)
+Collecting dnspython
+  Downloading dnspython-2.8.0-py3-none-any.whl.metadata (5.7 kB)
+Collecting python-nmap
+  Downloading python-nmap-0.7.1.tar.gz (44 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 44.4/44.4 kB 14.3 MB/s eta 0:00:00
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting PyPDF2
+  Downloading pypdf2-3.0.1-py3-none-any.whl.metadata (6.8 kB)
+Requirement already satisfied: pillow in /usr/local/lib/python3.11/site-packages (10.2.0)
+Collecting psutil
+  Downloading psutil-7.1.3-cp36-abi3-manylinux2010_x86_64.manylinux_2_12_x86_64.manylinux_2_28_x86_64.whl.metadata (23 kB)
+Collecting charset_normalizer<4,>=2 (from requests)
+  Downloading charset_normalizer-3.4.4-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (37 kB)
+Requirement already satisfied: idna<4,>=2.5 in /usr/local/lib/python3.11/site-packages (from requests) (3.11)
+Collecting urllib3<3,>=1.21.1 (from requests)
+  Downloading urllib3-2.5.0-py3-none-any.whl.metadata (6.5 kB)
+Collecting certifi>=2017.4.17 (from requests)
+  Downloading certifi-2025.11.12-py3-none-any.whl.metadata (2.5 kB)
+Collecting bcrypt>=3.2 (from paramiko)
+  Downloading bcrypt-5.0.0-cp39-abi3-manylinux_2_34_x86_64.whl.metadata (10 kB)
+Collecting cryptography>=3.3 (from paramiko)
+  Downloading cryptography-46.0.3-cp311-abi3-manylinux_2_34_x86_64.whl.metadata (5.7 kB)
+Collecting invoke>=2.0 (from paramiko)
+  Downloading invoke-2.2.1-py3-none-any.whl.metadata (3.3 kB)
+Collecting pynacl>=1.5 (from paramiko)
+  Downloading pynacl-1.6.1-cp38-abi3-manylinux_2_34_x86_64.whl.metadata (9.8 kB)
+Collecting cffi>=2.0.0 (from cryptography>=3.3->paramiko)
+  Downloading cffi-2.0.0-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.whl.metadata (2.6 kB)
+Collecting pycparser (from cffi>=2.0.0->cryptography>=3.3->paramiko)
+  Downloading pycparser-2.23-py3-none-any.whl.metadata (993 bytes)
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Downloading pyfiglet-1.0.4-py3-none-any.whl (1.8 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.8/1.8 MB 112.3 MB/s eta 0:00:00
+Downloading tqdm-4.67.1-py3-none-any.whl (78 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 78.5/78.5 kB 42.6 MB/s eta 0:00:00
+Downloading requests-2.32.5-py3-none-any.whl (64 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 64.7/64.7 kB 36.0 MB/s eta 0:00:00
+Downloading paramiko-4.0.0-py3-none-any.whl (223 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 223.9/223.9 kB 91.6 MB/s eta 0:00:00
+Downloading pycryptodome-3.23.0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (2.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.3/2.3 MB 142.2 MB/s eta 0:00:00
+Downloading dnspython-2.8.0-py3-none-any.whl (331 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 331.1/331.1 kB 108.7 MB/s eta 0:00:00
+Downloading pypdf2-3.0.1-py3-none-any.whl (232 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 232.6/232.6 kB 89.9 MB/s eta 0:00:00
+Downloading psutil-7.1.3-cp36-abi3-manylinux2010_x86_64.manylinux_2_12_x86_64.manylinux_2_28_x86_64.whl (263 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 263.3/263.3 kB 94.7 MB/s eta 0:00:00
+Downloading bcrypt-5.0.0-cp39-abi3-manylinux_2_34_x86_64.whl (278 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 278.2/278.2 kB 103.1 MB/s eta 0:00:00
+Downloading certifi-2025.11.12-py3-none-any.whl (159 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 159.4/159.4 kB 76.2 MB/s eta 0:00:00
+Downloading charset_normalizer-3.4.4-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (151 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 151.6/151.6 kB 69.8 MB/s eta 0:00:00
+Downloading cryptography-46.0.3-cp311-abi3-manylinux_2_34_x86_64.whl (4.5 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.5/4.5 MB 165.2 MB/s eta 0:00:00
+Downloading invoke-2.2.1-py3-none-any.whl (160 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 160.3/160.3 kB 74.2 MB/s eta 0:00:00
+Downloading pynacl-1.6.1-cp38-abi3-manylinux_2_34_x86_64.whl (1.4 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.4/1.4 MB 175.3 MB/s eta 0:00:00
+Downloading urllib3-2.5.0-py3-none-any.whl (129 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 129.8/129.8 kB 55.4 MB/s eta 0:00:00
+Downloading cffi-2.0.0-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (215 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 215.6/215.6 kB 89.5 MB/s eta 0:00:00
+Downloading pycparser-2.23-py3-none-any.whl (118 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 118.1/118.1 kB 58.6 MB/s eta 0:00:00
+Building wheels for collected packages: python-nmap
+  Building wheel for python-nmap (setup.py): started
+  Building wheel for python-nmap (setup.py): finished with status 'done'
+  Created wheel for python-nmap: filename=python_nmap-0.7.1-py2.py3-none-any.whl size=20679 sha256=47785f8b219c875355f8b5132d38626a57616f5e8a469523f4e9b41cf885af9f
+  Stored in directory: /root/.cache/pip/wheels/4a/8c/1a/aaade88fbb18b99e001cea0921931af9c05bca4c4a72868b51
+Successfully built python-nmap
+Installing collected packages: python-nmap, urllib3, tqdm, PyPDF2, pyfiglet, pycryptodome, pycparser, psutil, invoke, dnspython, colorama, charset_normalizer, certifi, bcrypt, requests, cffi, pynacl, cryptography, paramiko
+Successfully installed PyPDF2-3.0.1 bcrypt-5.0.0 certifi-2025.11.12 cffi-2.0.0 charset_normalizer-3.4.4 colorama-0.4.6 cryptography-46.0.3 dnspython-2.8.0 invoke-2.2.1 paramiko-4.0.0 psutil-7.1.3 pycparser-2.23 pycryptodome-3.23.0 pyfiglet-1.0.4 pynacl-1.6.1 python-nmap-0.7.1 requests-2.32.5 tqdm-4.67.1 urllib3-2.5.0
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+
+[notice] A new release of pip is available: 24.0 -> 25.3
+[notice] To update, run: pip install --upgrade pip

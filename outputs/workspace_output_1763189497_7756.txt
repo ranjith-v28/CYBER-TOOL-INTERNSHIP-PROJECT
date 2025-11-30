@@ -1,0 +1,42 @@
+.
+├── README.md
+├── demo_script.py
+├── examples
+│   └── basic_usage.md
+├── main.py
+├── outputs
+│   ├── workspace_output_1763189345_2689.txt
+│   ├── workspace_output_1763189347_7783.txt
+│   ├── workspace_output_1763189354_4649.txt
+│   ├── workspace_output_1763189417_1420.txt
+│   ├── workspace_output_1763189430_1164.txt
+│   ├── workspace_output_1763189436_21.txt
+│   ├── workspace_output_1763189445_4105.txt
+│   ├── workspace_output_1763189451_1595.txt
+│   ├── workspace_output_1763189454_3487.txt
+│   ├── workspace_output_1763189458_6522.txt
+│   ├── workspace_output_1763189462_5763.txt
+│   ├── workspace_output_1763189467_4407.txt
+│   ├── workspace_output_1763189470_5115.txt
+│   ├── workspace_output_1763189476_3025.txt
+│   ├── workspace_output_1763189481_3065.txt
+│   └── workspace_output_1763189497_7756.txt
+├── requirements.txt
+├── setup.py
+├── todo.md
+├── tools
+│   ├── __init__.py
+│   ├── ftp_cracker.py
+│   ├── info_stealer.py
+│   ├── network_scanner.py
+│   ├── password_cracker.py
+│   ├── pdf_cracker.py
+│   ├── pdf_protector.py
+│   ├── port_scanner.py
+│   ├── ssh_cracker.py
+│   └── subdomain_enum.py
+└── wordlists
+    ├── common_passwords.txt
+    └── common_usernames.txt
+
+5 directories, 35 files

@@ -1,0 +1,39 @@
+🚀 CyberTool - All-in-One Cybersecurity Toolkit
+==================================================
+
+📋 Available Tools:
+1. 🔍 Subdomain Enumeration
+2. 🔒 PDF Protection Tool
+3. 🔓 PDF Cracker
+4. 🌐 Network Scanner
+5. 🚪 Port Scanner
+6. 💣 Password Cracker
+7. 🔐 SSH Cracker
+8. 📁 FTP Cracker
+9. ℹ️  Information Stealer
+
+✅ Installation completed successfully!
+📁 Project structure created:
+   ├── main.py (Main CLI interface)
+   ├── tools/ (Individual tool modules)
+   ├── wordlists/ (Common passwords/usernames)
+   ├── examples/ (Usage examples)
+   ├── requirements.txt (Dependencies)
+   └── README.md (Documentation)
+
+🎯 To start using CyberTool:
+   python main.py
+
+⚠️  IMPORTANT REMINDER:
+   Use only on systems you own or have permission to test!
+   This tool is for educational and ethical purposes only.
+
+📚 For detailed usage examples, see:
+   examples/basic_usage.md
+   README.md
+
+🔧 All dependencies installed:
+   ❌ Missing package: No module named 'pycryptodome'
+   Run: pip install -r requirements.txt
+
+🌟 CyberTool is ready to use!
